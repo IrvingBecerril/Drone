@@ -6,7 +6,6 @@ Legal Requirements:
 - 
 
 Project Requirements:
-- must be able to fly
-- main body must be able to wirelessly communicate to a controller
+- main body must be able to wirelessly communicate to a remote control (physical or app?)
 - must be able to fly for over 1 hour at least
 - 
